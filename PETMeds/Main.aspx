@@ -23,7 +23,7 @@
                         <a class="nav-link active" aria-current="page" href="Main.aspx">Home</a>
                         <a class="nav-link" href="Services.aspx">Services</a>
                         <a class="nav-link" href="Vets.aspx">Our Vets</a>
-                        <a class="nav-link" href="#">About Us</a>
+                        <a class="nav-link" href="AboutUs.aspx">About Us</a>
                       </div>
                     </div>
                   </div>

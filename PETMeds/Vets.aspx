@@ -12,7 +12,7 @@
         <div>
 
             <div>
-            <h1 class="text-center p-5">PET Meds - Master Page</h1>
+            <h1 class="text-center p-5">PET Meds - Vets</h1>
             <nav class="navbar navbar-expand-lg bg-light">
                   <div class="container-fluid">
                     <a class="navbar-brand" href="#">PET Meds</a>
@@ -24,7 +24,7 @@
                         <a class="nav-link active" aria-current="page" href="Main.aspx">Home</a>
                         <a class="nav-link" href="Services.aspx">Services</a>
                         <a class="nav-link" href="Vets.aspx">Our Vets</a>
-                        <a class="nav-link" href="#">About Us</a>
+                        <a class="nav-link" href="AboutUs.aspx">About Us</a>
                       </div>
                     </div>
                   </div>

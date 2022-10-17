@@ -22,7 +22,7 @@
                       <div class="navbar-nav">
                         <a class="nav-link active" aria-current="page" href="Main.aspx">Home</a>
                         <a class="nav-link" href="Services.aspx">Services</a>
-                        <a class="nav-link" href="#">Our Vets</a>
+                        <a class="nav-link" href="Vets.aspx">Our Vets</a>
                         <a class="nav-link" href="#">About Us</a>
                       </div>
                     </div>
@@ -45,7 +45,7 @@
             <div class="card m-3">
               <div class="card-body">
                 <h5 class="card-title">Pet Check-up</h5>
-                <p class="card-text">Come schedule an appointment for your pet today! We have over 15 vets on our team who specialize in a large variety of animal care and treatment. Scheduling is quick and easy!</p>
+                <p class="card-text">Come schedule an appointment for your pet today! We have 3 vets on our team who specialize in a large variety of animal care and treatment. Scheduling is quick and easy!</p>
                 <a href="#" class="btn btn-primary">Schedule</a>
               </div>
             </div>
